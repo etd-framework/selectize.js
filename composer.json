@@ -1,5 +1,5 @@
 {
-  "name": "etdsolutions/selectize.js",
+  "name": "etdsolutions/selectize",
   "description": "Shim repository for Selectize",
   "homepage": "http://brianreavis.github.io/selectize.js",
   "require": {
