@@ -1,0 +1,10 @@
+{
+  "name": "etdsolutions/selectize.js",
+  "description": "Shim repository for Selectize",
+  "homepage": "http://brianreavis.github.io/selectize.js",
+  "require": {
+    "etdsolutions/jquery": ">=1.7",
+    "etdsolutions/sifter": "~0.4",
+    "etdsolutions/microplugin": "~0.0"
+  }
+}
